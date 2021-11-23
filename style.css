@@ -1,0 +1,58 @@
+/* style.css */
+
+* {
+    background-color: bisque;
+}
+
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div a{
+    font-size: x-large;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* h1 style */
+h1 {
+    text-align: center;
+}
+
+h1.ft {
+    color: chocolate;
+}
+h1.mc {
+    color: orange;
+}
+h1.ca {
+    color: gold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 70%;
+    height: 30%; */
+
+}
+
+.ingredients{
+
+    text-align: left;
+    text-anchor: start;
+
+}
+
+.steps {
+    text-align: left;
+    text-anchor: end;
+    font-weight: 500;
+}
+
+ol li {
+    margin-top: 20em;
+}
